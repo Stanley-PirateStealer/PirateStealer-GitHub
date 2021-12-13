@@ -1,4 +1,5 @@
-### [🔗 Discord Link](https://discord.gg/9KhkepxNR8) - [🔨 Builder](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases/tag/builder) - [💎 Premium](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/files/7702161/Premium.txt)
+### [🔗 Discord Link](https://discord.gg/9KhkepxNR8) - [🔨 Builder](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases/tag/builder) - 
+[💎 Premium](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/files/7702634/Premium.txt)
 
 # PirateStealer
 Official PirateStealer repos
